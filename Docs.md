@@ -8,6 +8,7 @@ Before diving into the resources, I highly suggest you go through the small docu
 -   All opportunities are in the computer science domain, and submissions should be made through online forms or by mailing the editor, depending on the organization.
 -   The given remuneration is based on the available data on the internet and can be used as an estimate. The remuneration is decided by the editorial team during the publication of the article.
 -   Some opportunities may be inactive, but they are still mentioned in the resource because there's a chance that they may resume.
+- Some of the resources in this project uses resources from the [communitywriterprograms](https://github.com/malgamves/CommunityWriterPrograms) and [whopaystechnicalwriters](https://github.com/philipkiely/whopaystechnicalwriters) templates, which are licensed under the MIT License.
 
 * * * * *
 
